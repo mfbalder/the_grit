@@ -1,7 +1,8 @@
-# README
+# The Grit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A resource for women to cultivate community through learning about new hobbies.
+
+
 
 Things you may want to cover:
 
